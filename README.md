@@ -15,11 +15,11 @@ Using the given dataset, which can be found in the Data section below, conduct a
 
 Task 2: End-to-end Machine Learning Pipeline (MLP)
  The MLP should entails:
-   ● Appropriate data preprocessing and feature engineering
-   ● Appropriate use and optimization of algorithms/models (at least 3 models)
-   ● Appropriate explanation for the choice of algorithms/models
-   ● Appropriate use of evaluation metrics
-   ● Appropriate explanation for the choice of evaluation metrics
+   - Appropriate data preprocessing and feature engineering
+   - Appropriate use and optimization of algorithms/models (at least 3 models)
+   - Appropriate explanation for the choice of algorithms/models
+   - Appropriate use of evaluation metrics
+   - Appropriate explanation for the choice of evaluation metrics
 
 
 1) 🏗 High-Level Architecture of Your ML Pipeline
